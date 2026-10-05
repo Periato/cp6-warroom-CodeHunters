@@ -100,6 +100,14 @@ segurança × faturamento × dívida). "Porque é mais seguro" não é justifica
 *(as decisões entram aqui, na ordem em que a madrugada as trouxer; placar inicial:
 🔥 7 · 💰 0 · 🧹 2)*
 
+**Tipo:** (rodada) . **Voto:** (C)
+
+**Justificativa:**
+Consideramos esta opção a melhor, pois dentre todas as opções decidimos que a C é a ideal. A opção A não seria boa, pois o Hotflix não teria teste e remove o catch, que seria uma camada de segurança. Ou seja, seria muito arriscado; a opção B também não seria ideal, pois seria a opção que mais daria prejuízo financeiro; por fim, a opção D seria uma alternativa interessante, pois corrigiria esse bug, porém poderia voltar a uma versão com outros bugs.
+
+
+**Placar do grupo após esta decisão:**🔥 8 · 💰 35 · 🧹 1 
+
 ---
 
 ## 🔎 O caminho do MEU grupo (preencher na 3ª aula, quando o mapa for revelado)
