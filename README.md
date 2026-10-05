@@ -108,6 +108,8 @@ Consideramos esta opção a melhor, pois dentre todas as opções decidimos que 
 
 **Placar do grupo após esta decisão:**🔥 8 · 💰 35 · 🧹 1 
 
+O grupo não participou da rodada-relâmpago após a primeira rodada, pois não fizemos rollback.
+
 ---
 
 ## 🔎 O caminho do MEU grupo (preencher na 3ª aula, quando o mapa for revelado)
